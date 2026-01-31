@@ -104,6 +104,7 @@ export default function App(){
           <button onClick={loadJobs} className="h-12 px-4 rounded-lg border border-slate-300 bg-white text-sm">Refresh</button>
         </div>
 
+
         {/* Table card */}
         <div className="bg-white rounded-xl shadow-md border border-slate-200 overflow-hidden">
           <div className="px-6 py-4 border-b bg-slate-50">
